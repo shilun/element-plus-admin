@@ -1,0 +1,1 @@
+import{c3 as a}from"./index.4aa55768.js";const s=s=>a.post({url:"/user/login",data:s}),r=()=>a.get({url:"/user/loginOut"}),l=({params:s})=>a.get({url:"/user/list",params:s}),t=s=>a.get({url:"/role/list",params:s}),e=s=>a.get({url:"/role/list",params:s});export{e as a,l as b,r as c,t as g,s as l};
